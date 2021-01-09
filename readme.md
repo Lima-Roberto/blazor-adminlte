@@ -1,7 +1,7 @@
 ﻿![adminlte for blazor](docs/img/blazor-adminlte.svg)
 
 [![nuget](https://img.shields.io/nuget/v/Blazorized.AdminLte)](https://www.nuget.org/packages/Blazorized.AdminLte/)
-[![.NET Core](https://github.com/sjefvanleeuwen/blazor-adminlte/workflows/.NET%20Core/badge.svg)](https://github.com/sjefvanleeuwen/blazor-adminlte/actions)
+[![.NET Core](https://github.com/Lima-Roberto/blazor-adminlte/workflows/.NET%20Core/badge.svg)](https://github.com/Lima-Roberto/blazor-adminlte/actions)
 
 # What is it?
 
@@ -21,7 +21,7 @@ The project updated regularly. Feel free to follow the project and receive updat
 
 We also provide various integrations in a seperate project, to help you started with more complex web applications Here:
 
-https://github.com/sjefvanleeuwen/blazorized-adminlte-plugins
+https://github.com/Lima-Roberto/blazorized-adminlte-plugins
 
 # Installation
 
@@ -45,7 +45,7 @@ or visit https://www.nuget.org/packages/Blazorized.AdminLte.Content/ for more in
 If you want these you will need to get them from the shared sample site's wwwroot
 
 The extra sample content is located here:
-https://github.com/sjefvanleeuwen/blazor-adminlte/tree/master/src/Blazor.AdminLte.Site.Shared/wwwroot
+https://github.com/Lima-Roberto/blazor-adminlte/tree/master/src/Blazor.AdminLte.Site.Shared/wwwroot
 
 Also you might want to change mainlayout.razor as it contains some linkes to the shared site you might not want to be using anymore.
 
